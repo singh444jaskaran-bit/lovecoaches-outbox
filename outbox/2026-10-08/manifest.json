@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261008",
  "caption": "For the husband who means well\n\nJas coaches the men and Shruti coaches the women.\nWe hear both sides of the same fight.\nHe goes quiet when it gets heated. She feels alone with it.\nListen before you fix, and tell her when you'll be back.\nWives, how you start the talk decides a lot of how it ends.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
@@ -14,15 +14,15 @@
   },
   {
    "file": "03.jpg",
-   "sha256": "d2411011caeb884890006c0188da7fc2afa782fb8172371dd7099fb118f3bb6b"
+   "sha256": "b88cff759b46d73a1c73eef5ba77904b74b799856edfaf39510c66ec6b885537"
   },
   {
    "file": "04.jpg",
-   "sha256": "a75bed6beec05566638ac8736cbbbc7699b72e061e9682e5ba708a67fd7ff6d8"
+   "sha256": "1bbac1a379b854bbeddd9c0704af890efd0e59e21513a93d0ae6338d4eba8c4f"
   },
   {
    "file": "05.jpg",
-   "sha256": "cd375de973e541ecbe46594f6e840922e4276446402b896609c06fd2c0bd0e26"
+   "sha256": "b6d1c33ebf11a2c7235293035900230e204166ec36c303ddb9ed0d97fdaa2554"
   },
   {
    "file": "06.jpg",
@@ -30,7 +30,7 @@
   },
   {
    "file": "07.jpg",
-   "sha256": "93d3877e60ff711e760fd9e7d7f3f06fb069e9144c5b4a011beb0a995b0b720f"
+   "sha256": "b46081691e393aa74ae0d3974b791d2511eee30543af55fc2845e216bcdfb5ea"
   },
   {
    "file": "08.jpg",
@@ -38,5 +38,5 @@
   }
  ],
  "item": "c002",
- "built_at": "2026-09-28T23:47:16+05:30"
+ "built_at": "2026-09-29T00:21:35+05:30"
 }
