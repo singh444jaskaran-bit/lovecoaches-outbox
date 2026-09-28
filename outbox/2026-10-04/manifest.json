@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-04",
+ "version": 1,
+ "slug": "lcm-20261004",
+ "caption": "Feel like you've drifted apart lately?\n\nPeople keep changing after the wedding. The couples we see lasting keep asking what is new inside the person next to them. One question a week and one dream a month is a good start.\n\nFollow @lovecoaches_shrutijas for more.",
+ "slides": [
+  {
+   "file": "01.jpg",
+   "sha256": "8111f58a2925dc3cb9fb5f9a4c360c031de075a51848e7fa534723bc455e6f34"
+  },
+  {
+   "file": "02.jpg",
+   "sha256": "1627326ad9183777cd0700582a4f16a895a3ae2b785e743b0b424e0184ce9cdb"
+  },
+  {
+   "file": "03.jpg",
+   "sha256": "1f00405d736a47e294e6ff10f5912f522973960e117b475122e209ba83fdbd57"
+  },
+  {
+   "file": "04.jpg",
+   "sha256": "340d1be2b5bdb2d5b6bbf73068d76408f0108e49af9e2589f38b02e2b32fb424"
+  },
+  {
+   "file": "05.jpg",
+   "sha256": "00e24fec69b7bb03e793e70f621605c83f473ac11c0b99b8e02c467cf1d9a98a"
+  },
+  {
+   "file": "06.jpg",
+   "sha256": "427b206eb669865b59a2b8d348306bf0029c12e9cd931b4f8cce4161c804a2a0"
+  },
+  {
+   "file": "07.jpg",
+   "sha256": "98623d9809c1113392bd884824aac6551b6680079e67f91469a997743be10537"
+  },
+  {
+   "file": "08.jpg",
+   "sha256": "5530a8fc7f9ebf635aa64e7b08611ff1a2c0640288f74f36bbb806849d4b08c4"
+  },
+  {
+   "file": "09.jpg",
+   "sha256": "69f93f29a9bfe641427b85046fc46114cd045667f8e4eb2af35a40d1d5e7bed3"
+  }
+ ],
+ "item": "c012",
+ "built_at": "2026-09-28T23:47:15+05:30"
+}

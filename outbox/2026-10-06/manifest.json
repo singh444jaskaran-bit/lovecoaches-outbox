@@ -1,0 +1,42 @@
+{
+ "date": "2026-10-06",
+ "version": 1,
+ "slug": "lcm-20261006",
+ "caption": "When fights move to WhatsApp\n\nWe tell our couples: long messages feel like clarity at 11 pm and usually start round two. Send one line with a time, then take a walk. Say the rest face to face, softly.\n\nFollow @lovecoaches_shrutijas for more.",
+ "slides": [
+  {
+   "file": "01.jpg",
+   "sha256": "1ceedbb6e6ea1967ef3464ccd1f3dd0304f64a8a27a7759e21ed635b009d10d9"
+  },
+  {
+   "file": "02.jpg",
+   "sha256": "26a1bc0875ee88c1cc3000da8def0610a2f04fdb47130260819f110c7d889142"
+  },
+  {
+   "file": "03.jpg",
+   "sha256": "a2012e7ef9c1eaf95787b508366928a01e2e63d2cc7f21e8d3f4bceb5ee8daf2"
+  },
+  {
+   "file": "04.jpg",
+   "sha256": "f55c50a905b42745281b22c30a17795e03f939997022a02d597d87ee9e59e449"
+  },
+  {
+   "file": "05.jpg",
+   "sha256": "adcb1a000e03046177a5658b353620575bf9a5c07a105b1313e48ec455bc280a"
+  },
+  {
+   "file": "06.jpg",
+   "sha256": "1f5d42ea49ca19df7144c42a3d1495e0287bc45482e40844cdd7fde78c0fde58"
+  },
+  {
+   "file": "07.jpg",
+   "sha256": "aa1a2261effcc9c30771585ff770d3b50fb643dea7f8f5d572d728e197af6452"
+  },
+  {
+   "file": "08.jpg",
+   "sha256": "0ac0823a08a023a7d725c7efc990f9d943652922341f096683a9b159e1019da0"
+  }
+ ],
+ "item": "c010",
+ "built_at": "2026-09-28T23:47:16+05:30"
+}

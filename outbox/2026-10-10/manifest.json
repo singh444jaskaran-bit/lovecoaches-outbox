@@ -1,0 +1,50 @@
+{
+ "date": "2026-10-10",
+ "version": 1,
+ "slug": "lcm-20261010",
+ "caption": "Some of these might sting a little\n\nThese come up with almost every couple we meet, and most hear them too late. Read them together, then fix the one that stung first.\n\nFollow @lovecoaches_shrutijas for more.",
+ "slides": [
+  {
+   "file": "01.jpg",
+   "sha256": "4a4ed58f9287d1ab5838660af3f050937dfd332b0d593de5699a5b0e1f9288b4"
+  },
+  {
+   "file": "02.jpg",
+   "sha256": "7ca0a3b8aab81a8a4a6d8a00cc08cb2a5edb0aa8efa9791719bf4e06094101ea"
+  },
+  {
+   "file": "03.jpg",
+   "sha256": "605c7e2e09f5d52124cefb4eea350bb151b22cce1d30e2586224f9cc6c3cda21"
+  },
+  {
+   "file": "04.jpg",
+   "sha256": "d5b0d4f3d541eb6cf75d7dcccbdd17d4d2173f986ea02229fe79c308d19c3c6d"
+  },
+  {
+   "file": "05.jpg",
+   "sha256": "05f73a133ce2922d471687b280b31fd4e118ea5ba5be5b39b1fbe6f6ccfa1ef9"
+  },
+  {
+   "file": "06.jpg",
+   "sha256": "2363e223d7d4c8ddcdd3eaba0aae4053d89c3d6f878962e09354d6d2eed07cd9"
+  },
+  {
+   "file": "07.jpg",
+   "sha256": "6e8027662a3cd3b8a5ef39d9695b46d99dc6ed0ad4d85942e4201b20954fa9b8"
+  },
+  {
+   "file": "08.jpg",
+   "sha256": "47e422fb458d41c16b7297f4a472ac76e8956e0ea14e6063fe21b363dd9b6d25"
+  },
+  {
+   "file": "09.jpg",
+   "sha256": "a3169495063e72ee7ec286c11835dd726317813e3b5c4f8f636e92887a11a45c"
+  },
+  {
+   "file": "10.jpg",
+   "sha256": "7caee61da117a99e4947b1b02ffa0fae0700b0d6c12b736b4c7c8860244c3264"
+  }
+ ],
+ "item": "c007",
+ "built_at": "2026-09-28T23:47:17+05:30"
+}
