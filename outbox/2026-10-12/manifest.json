@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-12",
+ "version": 1,
+ "slug": "lcm-20261012",
+ "caption": "When money for family turns tense\n\nHelping your parents and saving for your own home are both good. Doing either quietly is what hurts. Look at the money together once a month and decide the big amounts as two.\n\nFollow @lovecoaches_shrutijas for more.",
+ "slides": [
+  {
+   "file": "01.jpg",
+   "sha256": "c5b142648b5a997cb274b7916317d1f28deab6974469e84011b08f4351cf5b9d"
+  },
+  {
+   "file": "02.jpg",
+   "sha256": "7c261589609d0f2474b3003c4af1ab0890c2cdda028bcb0e88ddc4fdf1500355"
+  },
+  {
+   "file": "03.jpg",
+   "sha256": "627b9ec05d6eb14acd57ea1e00d651f86479d02ad5b268118d7e72519916c986"
+  },
+  {
+   "file": "04.jpg",
+   "sha256": "38fef7bab418c454c5cf90f1abd719d56c9b9a0f559184dba8b117fa7c794337"
+  },
+  {
+   "file": "05.jpg",
+   "sha256": "e1c2d55767f683212739f6dffab2cb461bdd1ce78317bc7823458301273e4d53"
+  },
+  {
+   "file": "06.jpg",
+   "sha256": "384302803fe42690c95ee8cf2edd9f28f7d9ae9939ffa67d54c6641ca6ee1c69"
+  },
+  {
+   "file": "07.jpg",
+   "sha256": "9bcc8c11635afd6c78605985f627e662c032921f6c27664e3c29b4bbeefea896"
+  },
+  {
+   "file": "08.jpg",
+   "sha256": "67f401a3a0fb0b06f2fde577c5d9decf85c4cf9a07e6461750dca1e2e5ba76ea"
+  },
+  {
+   "file": "09.jpg",
+   "sha256": "d2bcc1019b365dabd54497a7ded5e39a680daa9587e71011e418878b71680170"
+  }
+ ],
+ "item": "c008",
+ "built_at": "2026-10-04T01:29:04+05:30"
+}
