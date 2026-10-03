@@ -1,50 +1,50 @@
 {
  "date": "2026-10-05",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261005",
  "caption": "Tired of asking three times?\n\nMost reminders start with a 'haan' that had no day on it. We tell our couples: give your 'haan' a day, and keep it. When it's done, thank that exact thing. It works for husbands and wives.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "228e2a6b42f11ded090b9ab46ed9d2059b2526e874f33d2750e4b163774dc140"
+   "sha256": "132a7c83728ebdd70c48251e4a5fa185ce6010ce9d9b92ada6930e551848dffe"
   },
   {
    "file": "02.jpg",
-   "sha256": "4f458531b1fc2187acf294d56f2490e6252474add6126dedcfee3073fc735a9f"
+   "sha256": "1b40ccaeea3942480b33645f5fe5ec964b9f2907bb6a696bfa6d1009c99f2a29"
   },
   {
    "file": "03.jpg",
-   "sha256": "9dc9745eaff4b2e1f70c2a6455952981e9cc8ca34b8a1c0ad0c3fac37d66fd81"
+   "sha256": "0a23e68f6aed07a801e37739b4076eb9a68d88bcdd511e10582e60edbfe8796c"
   },
   {
    "file": "04.jpg",
-   "sha256": "161a339aea5685f3d55ede354ac528d7210e1c0c83d085dfa0850978c577560d"
+   "sha256": "dc850b07c36e9573bcd9a1980512bb2c554808819e46e26be7f74d5fc3c11c88"
   },
   {
    "file": "05.jpg",
-   "sha256": "f9d8e555cdf3f9488d8acecf695a760c03a5cdf10ef0ba912e4185b3b1d00d13"
+   "sha256": "e7fa7645081d195e91ee8943bbc499868f4a4c5739d6bd12455227748daeaf0c"
   },
   {
    "file": "06.jpg",
-   "sha256": "6aa54838112eb3163c37db375e19c9dba7ae5e0a4cc51e854e213ee6727137e8"
+   "sha256": "c9411100ac67eb12ee1e328d51b883b1004d1481ca9bbe915e46bedcb018046e"
   },
   {
    "file": "07.jpg",
-   "sha256": "55425f8b9c9ad95e06dc77db2c469795d39f38e913d860c12cff9ebbd53bb213"
+   "sha256": "3b2f5cbedab62a7caf52868218a253ea554597e578c0e43a57f82e53d9f70348"
   },
   {
    "file": "08.jpg",
-   "sha256": "5f3f6a656706bfcfa6189506abca6a106c93c2c1aa34002967243ed1eef57050"
+   "sha256": "b4a17c2ba94cfb72fc70ee0963de6096b4c99e3a14cef942c625c4aa4d6527af"
   },
   {
    "file": "09.jpg",
-   "sha256": "ed143bf640d6ba6a0d3ddc80c125c3559cedb1607131fda060c3373c022e13aa"
+   "sha256": "6a9c430b8b23f1c5960ef4d16baba097720825df1ca06a695adfbd95c2ab8d04"
   },
   {
    "file": "10.jpg",
-   "sha256": "fb3077b15245b8dee26ba37555867f74da7aa162b410d1624df0793e156b68a8"
+   "sha256": "ee5da371f71a084336df1e1499220742c9fe42e2346e0bdd3aeda5a5d0311515"
   }
  ],
  "item": "c014",
- "built_at": "2026-09-28T23:52:34+05:30"
+ "built_at": "2026-10-03T17:12:45+05:30"
 }

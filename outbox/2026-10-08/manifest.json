@@ -1,42 +1,42 @@
 {
  "date": "2026-10-08",
- "version": 2,
+ "version": 3,
  "slug": "lcm-20261008",
  "caption": "For the husband who means well\n\nJas coaches the men and Shruti coaches the women.\nWe hear both sides of the same fight.\nHe goes quiet when it gets heated. She feels alone with it.\nListen before you fix, and tell her when you'll be back.\nWives, how you start the talk decides a lot of how it ends.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "3370122f56904501a6c66311079212172aa5e5d9a0602d644dc5147b0b0aae59"
+   "sha256": "0dc794ebf0c0688ba1bc5f284d0d79f71805880d87cea4bb4feee5fac80c3b46"
   },
   {
    "file": "02.jpg",
-   "sha256": "460e65a1ff2152bf0ca931680345661898cd9299d8f593dce275c1bf0201919a"
+   "sha256": "be72fe375413a5560582e752edf130ff266c466855ecb0d5bddc2fef4a56791e"
   },
   {
    "file": "03.jpg",
-   "sha256": "b88cff759b46d73a1c73eef5ba77904b74b799856edfaf39510c66ec6b885537"
+   "sha256": "4a98b62d0f5a4e133e447bd88c6d691a2d7129289f3879492d122e62b790296e"
   },
   {
    "file": "04.jpg",
-   "sha256": "1bbac1a379b854bbeddd9c0704af890efd0e59e21513a93d0ae6338d4eba8c4f"
+   "sha256": "b142a3017d4805321d5f4a8b6d2bed993b2b9528ae991b778e780cf29fb2920f"
   },
   {
    "file": "05.jpg",
-   "sha256": "b6d1c33ebf11a2c7235293035900230e204166ec36c303ddb9ed0d97fdaa2554"
+   "sha256": "5b1dbbda21ff47ad300e12b87ff650bbc2cc520ff4f5cbfa994bf25ba57c974e"
   },
   {
    "file": "06.jpg",
-   "sha256": "9d2ed9eddaf15bb1239a3080f3e4aa023aaf8fd2e50334ce918d8759787685e1"
+   "sha256": "c2e973b5abe2d43b1ea78fb096ad3a0c94907feef840faaff0dfb7d98c144787"
   },
   {
    "file": "07.jpg",
-   "sha256": "b46081691e393aa74ae0d3974b791d2511eee30543af55fc2845e216bcdfb5ea"
+   "sha256": "df44c57e77d9ecb36f5c0441f5a6a2beae8c9f3917a29c8abbe486ce800f4fe2"
   },
   {
    "file": "08.jpg",
-   "sha256": "df16c0d80bb3a9543fb1028455d3a2dd20fe4a30802c1e0d8b4c485bc990064c"
+   "sha256": "bdac0b30d94d2db23133b581dc8ad2631da5272ef686c23af7521f0840eea2d5"
   }
  ],
  "item": "c002",
- "built_at": "2026-09-29T00:21:35+05:30"
+ "built_at": "2026-10-03T17:12:46+05:30"
 }

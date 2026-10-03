@@ -1,50 +1,50 @@
 {
  "date": "2026-10-10",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261010",
  "caption": "Some of these might sting a little\n\nThese come up with almost every couple we meet, and most hear them too late. Read them together, then fix the one that stung first.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "4a4ed58f9287d1ab5838660af3f050937dfd332b0d593de5699a5b0e1f9288b4"
+   "sha256": "762271a138196b303aab29e17a0b2e6e27db3884049ee6d08ad640a124548a97"
   },
   {
    "file": "02.jpg",
-   "sha256": "7ca0a3b8aab81a8a4a6d8a00cc08cb2a5edb0aa8efa9791719bf4e06094101ea"
+   "sha256": "069a48e126f9a0624d1297ce89e57d51f6879019b1af3cb1f8d315cab740ba50"
   },
   {
    "file": "03.jpg",
-   "sha256": "605c7e2e09f5d52124cefb4eea350bb151b22cce1d30e2586224f9cc6c3cda21"
+   "sha256": "7ecda9da3ef728f273ac9f1e61562f1cbf9c6243d38807867b3834d40e2ec48c"
   },
   {
    "file": "04.jpg",
-   "sha256": "d5b0d4f3d541eb6cf75d7dcccbdd17d4d2173f986ea02229fe79c308d19c3c6d"
+   "sha256": "821ae8ef450840e956580fb6f914527c3371f8d49f5cb1b43be465ad00736462"
   },
   {
    "file": "05.jpg",
-   "sha256": "05f73a133ce2922d471687b280b31fd4e118ea5ba5be5b39b1fbe6f6ccfa1ef9"
+   "sha256": "796b823eb29aff6b42e972797f8484ca4d49418b2dd733d9e339be3ced4d3ca2"
   },
   {
    "file": "06.jpg",
-   "sha256": "2363e223d7d4c8ddcdd3eaba0aae4053d89c3d6f878962e09354d6d2eed07cd9"
+   "sha256": "16c76807cae44c02120dacc3b1a1b8e98f72ffacc4a3c74132b6693efbdc4549"
   },
   {
    "file": "07.jpg",
-   "sha256": "6e8027662a3cd3b8a5ef39d9695b46d99dc6ed0ad4d85942e4201b20954fa9b8"
+   "sha256": "c6fddda8d51ba928e5f3bda127f213db91ff933a0304dbdf2f0456875ee4ec8b"
   },
   {
    "file": "08.jpg",
-   "sha256": "47e422fb458d41c16b7297f4a472ac76e8956e0ea14e6063fe21b363dd9b6d25"
+   "sha256": "b8b5fd36762c8dc98669c937b302ae7b80fb246fe712beae11d73133050e848a"
   },
   {
    "file": "09.jpg",
-   "sha256": "a3169495063e72ee7ec286c11835dd726317813e3b5c4f8f636e92887a11a45c"
+   "sha256": "7281286c9df20614786258da4b7a2df3b5f3c57a344ad622504460be42de7393"
   },
   {
    "file": "10.jpg",
-   "sha256": "7caee61da117a99e4947b1b02ffa0fae0700b0d6c12b736b4c7c8860244c3264"
+   "sha256": "704a40d1aa30de486bdf52e3d62feb587afe879f3b6fba188f119a7a3adf2684"
   }
  ],
  "item": "c007",
- "built_at": "2026-09-28T23:47:17+05:30"
+ "built_at": "2026-10-03T17:12:46+05:30"
 }

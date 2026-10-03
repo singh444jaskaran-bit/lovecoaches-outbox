@@ -1,42 +1,42 @@
 {
  "date": "2026-10-06",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261006",
  "caption": "When fights move to WhatsApp\n\nWe tell our couples: long messages feel like clarity at 11 pm and usually start round two. Send one line with a time, then take a walk. Say the rest face to face, softly.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "1ceedbb6e6ea1967ef3464ccd1f3dd0304f64a8a27a7759e21ed635b009d10d9"
+   "sha256": "8ef92732f09d6fe924196a6684f2320b8448b8cfac6f51c49255ae9965161fb0"
   },
   {
    "file": "02.jpg",
-   "sha256": "26a1bc0875ee88c1cc3000da8def0610a2f04fdb47130260819f110c7d889142"
+   "sha256": "5fb7177236e0abd36b0a5b0abb80376802990a09031a8702aca5de3b307c6161"
   },
   {
    "file": "03.jpg",
-   "sha256": "a2012e7ef9c1eaf95787b508366928a01e2e63d2cc7f21e8d3f4bceb5ee8daf2"
+   "sha256": "2cc596359b65e69b4d898eda08867721065b456275e6f411e4e13bd84c1e4c98"
   },
   {
    "file": "04.jpg",
-   "sha256": "f55c50a905b42745281b22c30a17795e03f939997022a02d597d87ee9e59e449"
+   "sha256": "983b46cb4be29bef9d1aa6785b8c42b6cbd5f6bc93991134705bcff38e8ea5bc"
   },
   {
    "file": "05.jpg",
-   "sha256": "adcb1a000e03046177a5658b353620575bf9a5c07a105b1313e48ec455bc280a"
+   "sha256": "3afdbbfd70fefb234ffd619590d2332c72d8bc5529dd357239ccf2db4a762681"
   },
   {
    "file": "06.jpg",
-   "sha256": "1f5d42ea49ca19df7144c42a3d1495e0287bc45482e40844cdd7fde78c0fde58"
+   "sha256": "eb81b8ceef727549c089afd82180defd5139ff95a4895dff38d334981e320859"
   },
   {
    "file": "07.jpg",
-   "sha256": "aa1a2261effcc9c30771585ff770d3b50fb643dea7f8f5d572d728e197af6452"
+   "sha256": "7e15ad38b12412387b71d96607a3dfcb1fa84745eb03f7157bd6014e535ba249"
   },
   {
    "file": "08.jpg",
-   "sha256": "0ac0823a08a023a7d725c7efc990f9d943652922341f096683a9b159e1019da0"
+   "sha256": "2ce8592245953242ce1481eca65b843739961cf4ab807d7625cf5c39c4add37c"
   }
  ],
  "item": "c010",
- "built_at": "2026-09-28T23:47:16+05:30"
+ "built_at": "2026-10-03T17:12:45+05:30"
 }

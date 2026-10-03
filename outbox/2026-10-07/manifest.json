@@ -1,46 +1,46 @@
 {
  "date": "2026-10-07",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261007",
  "caption": "When 'I love you' feels routine\n\nMost couples we coach don't need a bigger gesture. They need the right line at the right moment. Pick one from this list and say it before the weekend.\n\nSend this to your person and follow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "927f8bd59a563841ef6e2f4d491e2c75c9bc48e99745674674d135ee83fa4a14"
+   "sha256": "9921b045539bcda4a705db4575b3e9e71d07132b6a89b56c58cbf71a47b7b9c0"
   },
   {
    "file": "02.jpg",
-   "sha256": "e408ea8abdebc79cb22ce910f75e7073e095327c627de471bd8ca0a4deb461d2"
+   "sha256": "32cda42227151d94fd73d32acd1e28663c82fb92385b468ecb2b1649f8a42804"
   },
   {
    "file": "03.jpg",
-   "sha256": "16b2aa4d432a9438d6eeec008e065da150a55fda8c371eea1b32ffef94428d60"
+   "sha256": "b5555057388a35ca513f814438f470a3a15e64cc7dd324859a85c43e48fb9f46"
   },
   {
    "file": "04.jpg",
-   "sha256": "d4eea3d53cfecdba8b16301ce55d107c0151f5cd377ee91810ad224797b47766"
+   "sha256": "83846e1ec97d143defdc1239ee91fdc249eb3f24f4ad9939574f1b2cee93c573"
   },
   {
    "file": "05.jpg",
-   "sha256": "0d426394abf1dcf93a5a0ec71107ea4085f5d77c13f5b9d1887f77713733cb48"
+   "sha256": "42e3e0430a312064be5484c5d7536d3ea03a439e4278d7fa79c113355cbfa198"
   },
   {
    "file": "06.jpg",
-   "sha256": "30043eb99db418aa389ede7057db7b03a18db7573c27d25ac16e3633b8966fc9"
+   "sha256": "b62b15d7b48e467e74c5427baa6ce282d981a3f14c0d75c01392290184c1867f"
   },
   {
    "file": "07.jpg",
-   "sha256": "4475b6ac98b03303e78bab69cef09d9c9996c8563a9738f7521bf5622e853da4"
+   "sha256": "dbcaef1df61fdce6698f5697a715429e20146507c76902811e2e69440998b19a"
   },
   {
    "file": "08.jpg",
-   "sha256": "2c1d4b9d1128b9da9d0e91791431397756929de49a111fa0a9cef1b74a92d3ac"
+   "sha256": "e89a92bdd34e8b01cf24fc65e014ab5921edc137cf6b9b839fb065bf5509efe4"
   },
   {
    "file": "09.jpg",
-   "sha256": "e1ac51533f6e542f6f545d97c0556441124a4b5cb52ec60caeee1cb62386382f"
+   "sha256": "0f7b38995e268f3b782290f1b3bb58e81d7d35ce9437e0c698f4639139a94731"
   }
  ],
  "item": "c001",
- "built_at": "2026-09-28T23:47:16+05:30"
+ "built_at": "2026-10-03T17:12:45+05:30"
 }
