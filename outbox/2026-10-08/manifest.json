@@ -1,50 +1,42 @@
 {
  "date": "2026-10-08",
- "version": 4,
+ "version": 5,
  "slug": "lcm-20261008",
  "caption": "Which one did you hear growing up?\n\nTell us yours in the comments.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "610a25f3e2d4b260911c49345c980dc177eed7bedbde647e39658a6c53507305"
+   "sha256": "8001571a9859acbefd3cce79ab431103c1b9bf3f64e3786dbf58273d27024eb8"
   },
   {
    "file": "02.jpg",
-   "sha256": "ce98750e532877944abadc1b2de72db54de58e5ac621b3ef49c425f9d080fc19"
+   "sha256": "4216dffcbcd4bf8dca927077f335635a1c2dff31a45140c3d53c2b4807aaf994"
   },
   {
    "file": "03.jpg",
-   "sha256": "dfc35ba90eabffb394e45cbefafa80b4087c7a200b86b558664f566053eabab8"
+   "sha256": "6d5ad3b39125c2183653e5db36b8faa2332acce3379a76ccb9957f957c5e6048"
   },
   {
    "file": "04.jpg",
-   "sha256": "4002aa4f560a9431bf077a3a901e5fdf1925b5f2b6aaa41100afa0e2d9df4ef9"
+   "sha256": "d62b267a7ab007c6c530f6f43ecb2cc952bdd10300fa3dca6319a0a46dfb2493"
   },
   {
    "file": "05.jpg",
-   "sha256": "bd76cf613c255987a819c04262ea7de385c85488352c5f5a6e05bbc0fe13d02e"
+   "sha256": "e65f883ef3352cb3c94cbb4e448575875c2d4f94363c41f2563675c5078de30d"
   },
   {
    "file": "06.jpg",
-   "sha256": "6ad4f17b3486c2ebe0a25ad7c2dbe8ac658d1136a4311b535ea6d6112d74b1e9"
+   "sha256": "2f920dc73c3baff649e0fd75d3112a3f91024e2338e66fbfe8bf5f7d77078aee"
   },
   {
    "file": "07.jpg",
-   "sha256": "12a1328def139671afc1c57795820c0f2c259f91587861579596fd1de56ecdf1"
+   "sha256": "9c5013888cc4eb53f405cd9f1dd78769702b1e78121f1860c6f770e6ab879e66"
   },
   {
    "file": "08.jpg",
-   "sha256": "1cbb41a22ace741b0c70d57e2fd34515994b314e0fefdb5b51de0023f2c947d5"
-  },
-  {
-   "file": "09.jpg",
-   "sha256": "62bcab6324160d5e4183c36ce3f3e244ee3f100e57da337358fe61bdeac48d25"
-  },
-  {
-   "file": "10.jpg",
-   "sha256": "78d6efbf17acfd2fad559801dbdb29c6afce58f3b391dac29396cef457aea246"
+   "sha256": "c24e965abe28b011cde5488290136daade6eac511e6ec49f21d1094562734db6"
   }
  ],
  "item": "c030",
- "built_at": "2026-10-06T13:48:11+05:30"
+ "built_at": "2026-10-06T13:52:25+05:30"
 }

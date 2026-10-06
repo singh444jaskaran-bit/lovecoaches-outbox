@@ -1,46 +1,42 @@
 {
  "date": "2026-10-07",
- "version": 3,
+ "version": 4,
  "slug": "lcm-20261007",
  "caption": "Which line do you hear most?\n\nWe tell our couples this. The small sentences say the most.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "629794b12aea844646ef8043cd333e600861da264de095aab44220c7c0f9b32e"
+   "sha256": "4d6497c161797c1c5fe0d0237c4a83b4203e99912ae8c8b1c3ef10a88f1c0b20"
   },
   {
    "file": "02.jpg",
-   "sha256": "b8c95c5e8b6044f39d120247463e0e093f50eaa964d8d31dcb6af111aabf45ab"
+   "sha256": "db7cb75e04733ef1179af5b43f36a719dc6c5d7f73695b6a45929d833d95d569"
   },
   {
    "file": "03.jpg",
-   "sha256": "d0fcad293e6354bff77dc5bc6d68f60915a4ecefcfa046a51fa30e0c67fbb88a"
+   "sha256": "b7947f33ec90fa06ab4c9fa5866c156e1d0a2fe9c0b1713f7b46fd7c5e0ae175"
   },
   {
    "file": "04.jpg",
-   "sha256": "677e5596cbf626621e03a542436cde0fbc7a754b397b0daae94ea508925f0ca1"
+   "sha256": "f7f73de4e01cd452b73385e0e30d384534fc94b734a5448371cc4d8d48923c56"
   },
   {
    "file": "05.jpg",
-   "sha256": "8013da56fdd17bc9d055e1d45c0e3bf698bb30100531df53ba82728e57495f7f"
+   "sha256": "4b3a3d3e58c4ab6029d8b2670f41bf74f1c3a1b9ef049103f840794d614c5404"
   },
   {
    "file": "06.jpg",
-   "sha256": "dfdd9a86a16bdebb7bb3e5312e9be231a18bcd61b6f63fcc0166bc1e50f13491"
+   "sha256": "598f0cb1f45ecd16a358e12a779a6098c2b62a5761c25c80ac258a7a9af8a8e2"
   },
   {
    "file": "07.jpg",
-   "sha256": "d24ffd2d42a6e9ccc20ff482aaa1d14c6ae5ed8f2ae2ba375e1a792760102dd4"
+   "sha256": "5ee2638173882e39ae7fa051dbd326d14729389752f98143e0917dfb76f53df6"
   },
   {
    "file": "08.jpg",
-   "sha256": "3431ad0cfecd38bf1bb3a884c5e672b26674cf62fb971aeda3d5999745d30139"
-  },
-  {
-   "file": "09.jpg",
-   "sha256": "7fe2d837506e2ac0ca2e6143c5143a5a578ebc02ab26946bae4b2f9ff354d608"
+   "sha256": "b87578a4005acf64e9f45598ff5d61830d46361fbe71c44326b1a5ed26f3fe0a"
   }
  ],
  "item": "c001",
- "built_at": "2026-10-06T13:23:54+05:30"
+ "built_at": "2026-10-06T13:52:25+05:30"
 }
