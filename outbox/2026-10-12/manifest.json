@@ -1,46 +1,42 @@
 {
  "date": "2026-10-12",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261012",
- "caption": "When money for family turns tense\n\nHelping your parents and saving for your own home are both good. Doing either quietly is what hurts. Look at the money together once a month and decide the big amounts as two.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "No one taught you this either?\n\nNobody trains us for this part. We learn it together.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "c5b142648b5a997cb274b7916317d1f28deab6974469e84011b08f4351cf5b9d"
+   "sha256": "70dde86bb892f49728e92c4cb62df7fac73d959595800d16b3352d7446c4aed4"
   },
   {
    "file": "02.jpg",
-   "sha256": "7c261589609d0f2474b3003c4af1ab0890c2cdda028bcb0e88ddc4fdf1500355"
+   "sha256": "0cf005d050005eccf7eaad800508e645ec0e6e8af7ba43efbdda192ecdc2ab6b"
   },
   {
    "file": "03.jpg",
-   "sha256": "627b9ec05d6eb14acd57ea1e00d651f86479d02ad5b268118d7e72519916c986"
+   "sha256": "dbbd683dc0f6af754e7f546c164747fb30f8429273f03dbf9e102bc873004ce7"
   },
   {
    "file": "04.jpg",
-   "sha256": "38fef7bab418c454c5cf90f1abd719d56c9b9a0f559184dba8b117fa7c794337"
+   "sha256": "afe19a30d17540f5e8668d0ed837af7fb0206023519487f37408e3e25862fe7a"
   },
   {
    "file": "05.jpg",
-   "sha256": "e1c2d55767f683212739f6dffab2cb461bdd1ce78317bc7823458301273e4d53"
+   "sha256": "b2d80c60c7417d9bc09d3110d3be6c3c6a46b4f151e69fe7b7e27ea5f43e6353"
   },
   {
    "file": "06.jpg",
-   "sha256": "384302803fe42690c95ee8cf2edd9f28f7d9ae9939ffa67d54c6641ca6ee1c69"
+   "sha256": "f3dea2aa53774f6a31df32c962155dfcd7ecd072250a970046dcd20bf92e7408"
   },
   {
    "file": "07.jpg",
-   "sha256": "9bcc8c11635afd6c78605985f627e662c032921f6c27664e3c29b4bbeefea896"
+   "sha256": "fb941b0fab2e181642996dc9fea4770d3f58dd6fbbb0fa1831129f0e9f2945f1"
   },
   {
    "file": "08.jpg",
-   "sha256": "67f401a3a0fb0b06f2fde577c5d9decf85c4cf9a07e6461750dca1e2e5ba76ea"
-  },
-  {
-   "file": "09.jpg",
-   "sha256": "d2bcc1019b365dabd54497a7ded5e39a680daa9587e71011e418878b71680170"
+   "sha256": "aa3bd1cfc150e5962b4bbb5a82fa69e4d19ab044ede95a9c61e25fc6b5c5f557"
   }
  ],
- "item": "c008",
- "built_at": "2026-10-04T01:29:04+05:30"
+ "item": "c024",
+ "built_at": "2026-10-07T01:42:25+05:30"
 }
