@@ -1,46 +1,46 @@
 {
  "date": "2026-10-07",
- "version": 2,
+ "version": 3,
  "slug": "lcm-20261007",
- "caption": "When 'I love you' feels routine\n\nMost couples we coach don't need a bigger gesture. They need the right line at the right moment. Pick one from this list and say it before the weekend.\n\nSend this to your person and follow @lovecoaches_shrutijas for more.",
+ "caption": "Which line do you hear most?\n\nWe tell our couples this. The small sentences say the most.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "9921b045539bcda4a705db4575b3e9e71d07132b6a89b56c58cbf71a47b7b9c0"
+   "sha256": "629794b12aea844646ef8043cd333e600861da264de095aab44220c7c0f9b32e"
   },
   {
    "file": "02.jpg",
-   "sha256": "32cda42227151d94fd73d32acd1e28663c82fb92385b468ecb2b1649f8a42804"
+   "sha256": "b8c95c5e8b6044f39d120247463e0e093f50eaa964d8d31dcb6af111aabf45ab"
   },
   {
    "file": "03.jpg",
-   "sha256": "b5555057388a35ca513f814438f470a3a15e64cc7dd324859a85c43e48fb9f46"
+   "sha256": "d0fcad293e6354bff77dc5bc6d68f60915a4ecefcfa046a51fa30e0c67fbb88a"
   },
   {
    "file": "04.jpg",
-   "sha256": "83846e1ec97d143defdc1239ee91fdc249eb3f24f4ad9939574f1b2cee93c573"
+   "sha256": "677e5596cbf626621e03a542436cde0fbc7a754b397b0daae94ea508925f0ca1"
   },
   {
    "file": "05.jpg",
-   "sha256": "42e3e0430a312064be5484c5d7536d3ea03a439e4278d7fa79c113355cbfa198"
+   "sha256": "8013da56fdd17bc9d055e1d45c0e3bf698bb30100531df53ba82728e57495f7f"
   },
   {
    "file": "06.jpg",
-   "sha256": "b62b15d7b48e467e74c5427baa6ce282d981a3f14c0d75c01392290184c1867f"
+   "sha256": "dfdd9a86a16bdebb7bb3e5312e9be231a18bcd61b6f63fcc0166bc1e50f13491"
   },
   {
    "file": "07.jpg",
-   "sha256": "dbcaef1df61fdce6698f5697a715429e20146507c76902811e2e69440998b19a"
+   "sha256": "d24ffd2d42a6e9ccc20ff482aaa1d14c6ae5ed8f2ae2ba375e1a792760102dd4"
   },
   {
    "file": "08.jpg",
-   "sha256": "e89a92bdd34e8b01cf24fc65e014ab5921edc137cf6b9b839fb065bf5509efe4"
+   "sha256": "3431ad0cfecd38bf1bb3a884c5e672b26674cf62fb971aeda3d5999745d30139"
   },
   {
    "file": "09.jpg",
-   "sha256": "0f7b38995e268f3b782290f1b3bb58e81d7d35ce9437e0c698f4639139a94731"
+   "sha256": "7fe2d837506e2ac0ca2e6143c5143a5a578ebc02ab26946bae4b2f9ff354d608"
   }
  ],
  "item": "c001",
- "built_at": "2026-10-03T17:12:45+05:30"
+ "built_at": "2026-10-06T13:23:54+05:30"
 }
