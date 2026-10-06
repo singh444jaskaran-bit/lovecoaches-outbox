@@ -1,42 +1,50 @@
 {
  "date": "2026-10-08",
- "version": 3,
+ "version": 4,
  "slug": "lcm-20261008",
- "caption": "For the husband who means well\n\nJas coaches the men and Shruti coaches the women.\nWe hear both sides of the same fight.\nHe goes quiet when it gets heated. She feels alone with it.\nListen before you fix, and tell her when you'll be back.\nWives, how you start the talk decides a lot of how it ends.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Which one did you hear growing up?\n\nTell us yours in the comments.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "0dc794ebf0c0688ba1bc5f284d0d79f71805880d87cea4bb4feee5fac80c3b46"
+   "sha256": "610a25f3e2d4b260911c49345c980dc177eed7bedbde647e39658a6c53507305"
   },
   {
    "file": "02.jpg",
-   "sha256": "be72fe375413a5560582e752edf130ff266c466855ecb0d5bddc2fef4a56791e"
+   "sha256": "ce98750e532877944abadc1b2de72db54de58e5ac621b3ef49c425f9d080fc19"
   },
   {
    "file": "03.jpg",
-   "sha256": "4a98b62d0f5a4e133e447bd88c6d691a2d7129289f3879492d122e62b790296e"
+   "sha256": "dfc35ba90eabffb394e45cbefafa80b4087c7a200b86b558664f566053eabab8"
   },
   {
    "file": "04.jpg",
-   "sha256": "b142a3017d4805321d5f4a8b6d2bed993b2b9528ae991b778e780cf29fb2920f"
+   "sha256": "4002aa4f560a9431bf077a3a901e5fdf1925b5f2b6aaa41100afa0e2d9df4ef9"
   },
   {
    "file": "05.jpg",
-   "sha256": "5b1dbbda21ff47ad300e12b87ff650bbc2cc520ff4f5cbfa994bf25ba57c974e"
+   "sha256": "bd76cf613c255987a819c04262ea7de385c85488352c5f5a6e05bbc0fe13d02e"
   },
   {
    "file": "06.jpg",
-   "sha256": "c2e973b5abe2d43b1ea78fb096ad3a0c94907feef840faaff0dfb7d98c144787"
+   "sha256": "6ad4f17b3486c2ebe0a25ad7c2dbe8ac658d1136a4311b535ea6d6112d74b1e9"
   },
   {
    "file": "07.jpg",
-   "sha256": "df44c57e77d9ecb36f5c0441f5a6a2beae8c9f3917a29c8abbe486ce800f4fe2"
+   "sha256": "12a1328def139671afc1c57795820c0f2c259f91587861579596fd1de56ecdf1"
   },
   {
    "file": "08.jpg",
-   "sha256": "bdac0b30d94d2db23133b581dc8ad2631da5272ef686c23af7521f0840eea2d5"
+   "sha256": "1cbb41a22ace741b0c70d57e2fd34515994b314e0fefdb5b51de0023f2c947d5"
+  },
+  {
+   "file": "09.jpg",
+   "sha256": "62bcab6324160d5e4183c36ce3f3e244ee3f100e57da337358fe61bdeac48d25"
+  },
+  {
+   "file": "10.jpg",
+   "sha256": "78d6efbf17acfd2fad559801dbdb29c6afce58f3b391dac29396cef457aea246"
   }
  ],
- "item": "c002",
- "built_at": "2026-10-03T17:12:46+05:30"
+ "item": "c030",
+ "built_at": "2026-10-06T13:48:11+05:30"
 }
