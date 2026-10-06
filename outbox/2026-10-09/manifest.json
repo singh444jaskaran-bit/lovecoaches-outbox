@@ -1,50 +1,38 @@
 {
  "date": "2026-10-09",
- "version": 2,
+ "version": 3,
  "slug": "lcm-20261009",
- "caption": "How many have you two hit?\n\nWedding photos get the likes. These milestones build the marriage. We are four years married, and these are the ones we'd want every couple to hit. Count yours together, then pick one for this month.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Which one is hardest to say?\n\nWe still practise number one. Save this for the next fight.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "d7f9bef6ea767d7a44344fe7b450becf40ece80cb57bcc77eb302284995b3b71"
+   "sha256": "d17c7de18df27b4df9a4d824fea2edb3fee84e90e431881a7f3718b531551806"
   },
   {
    "file": "02.jpg",
-   "sha256": "c35de8315e8fd7ba817a57506b41b9ea1db9fc043f289416d652e06f58f2f89e"
+   "sha256": "0e4fe8d0de70c2d5e21794b2bd40a27176a2848d4902a57c73470199f6911252"
   },
   {
    "file": "03.jpg",
-   "sha256": "cae17cdd64b25696bdf2ab5b8e25d35080dc8ab42fce7a8ffcccb5827c53b23e"
+   "sha256": "ed4e854ccbecd5e0d7518f843aca831f2fae884ced5599dd57cef2b28bdbba5e"
   },
   {
    "file": "04.jpg",
-   "sha256": "96afcbe764cd486031548cf02d174eadb3bf7e45c343c431636aa502cc5d2158"
+   "sha256": "1b8ef8038fbfb91da5e18aa25704fcca82ffd1206b8cee62498ec224f6f4b414"
   },
   {
    "file": "05.jpg",
-   "sha256": "276fab314b81a5101163d104b72b2baf11d0e094c20a9d4327f226fed931c9d9"
+   "sha256": "6d4f83e3f0d76f6b492f52f148197fc067afd5f4e0ddfcf200fcb8c794e6968a"
   },
   {
    "file": "06.jpg",
-   "sha256": "438ecfb8d78524d6eb276a42098d9c643cbad405f21ed5e531ee1b17c2233582"
+   "sha256": "bb5be9fc81f59a067fce43e8d998bcc855145a7d5452e077b86ff18b8f678748"
   },
   {
    "file": "07.jpg",
-   "sha256": "955063e7f0e21f81aa994694b8e3be0f2a76046ec0827da39a404fe78bde6936"
-  },
-  {
-   "file": "08.jpg",
-   "sha256": "1dc8142213cc501af0ee33bac077b21eaba195c446f118a890eada1375e4ad8a"
-  },
-  {
-   "file": "09.jpg",
-   "sha256": "56998329e4ff666d3f6c13667d73cc9969d03a0edc66fdffa2bc1ab837f3965b"
-  },
-  {
-   "file": "10.jpg",
-   "sha256": "4a65059f4ed3923114316782035ed7d13d598c0b8d0bf5ac3d1f09adedbbb1a2"
+   "sha256": "156a52ca8e31c4346ffec77cb1a4ae618149d494cbe5562873c5e5884f281f44"
   }
  ],
- "item": "c004",
- "built_at": "2026-10-03T17:12:46+05:30"
+ "item": "c031",
+ "built_at": "2026-10-06T22:48:13+05:30"
 }
