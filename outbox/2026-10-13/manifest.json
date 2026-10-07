@@ -1,50 +1,42 @@
 {
  "date": "2026-10-13",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261013",
- "caption": "Stop saying 'that's just him'\n\nWe tell our couples: saying your partner can't change sounds kind, but it quietly takes away their chance to grow. A clear sorry can be learned. So can a weekly check-in. Pick one this month.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Which one will you try tonight?\n\nSmall and daily beats big and rare.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "38be110ed7cb4d02f041e3f9a02f842163d7ffa49498ebfcc03d9e801396b612"
+   "sha256": "8ef86017a715927f120cf5e50b6c10e0829d6d19874490619a600bbd3b4dab96"
   },
   {
    "file": "02.jpg",
-   "sha256": "47b65d876a745fb1d068b21ad96fdc3b70bae924258df5decf3aeed99f30b0f2"
+   "sha256": "534e03d7c61d90e890053a5482d94a57b6a875f257efb455c85b7576cfea3afc"
   },
   {
    "file": "03.jpg",
-   "sha256": "a47b1865664f4d00e75b56df7af5b7a0205121bb9994d3904b4bc4a7f79752e6"
+   "sha256": "8c24042f0c7cfbe30754eca6a3b724dd99d53c73b57bcc2e75f800a3c68da316"
   },
   {
    "file": "04.jpg",
-   "sha256": "b4289aa61f52a3a9534948d516d00ebb5f7ecc7e00bec19e832f005a23921fd2"
+   "sha256": "dec0f44df4baa07ecfe0925c89d9b09649e8d6b51dcbe450afab247dcc0bb6a8"
   },
   {
    "file": "05.jpg",
-   "sha256": "a213dae03a38083ccb259c03bcf8399431de1255d0cd5a024ee1d7f53978cfc6"
+   "sha256": "4840c9002f569902b54387af75c2258fef681922bc815a0b6e314125a3533cbc"
   },
   {
    "file": "06.jpg",
-   "sha256": "666d55c08b2e5dc1094e35b1eaf194aceed0404f38c401982e73a168e11e9bfa"
+   "sha256": "283176a23559b8dabf6148442bd4baa016b7a14a288915b2fe60a40850019843"
   },
   {
    "file": "07.jpg",
-   "sha256": "2af406f3b12fa6ea36ba601e11c9c2b9f46cc5e68ea3f93442b6822de5d46cd2"
+   "sha256": "830e67fa7071ad92e73d24419713718987b07d0c4ddc61963dee403a6982e573"
   },
   {
    "file": "08.jpg",
-   "sha256": "f46498f0dcded279ba448a3627d9ba42d0bdae56a939fd44705c220c313c8331"
-  },
-  {
-   "file": "09.jpg",
-   "sha256": "58582cb21b7fac37d8c52093d4988bc2d09009b1a1aae08d394147adbb0c86cd"
-  },
-  {
-   "file": "10.jpg",
-   "sha256": "1a17c0c353842b4f943ad1cd5b8e23cf1b9a1a8473023ca9701b4fa7c6163f59"
+   "sha256": "9f22c18ccd0d8e589391dbd0d68ba042d0c4e18efcf42f2bbb703aa7a0bc8ac4"
   }
  ],
- "item": "c020",
- "built_at": "2026-10-05T01:59:10+05:30"
+ "item": "c032",
+ "built_at": "2026-10-07T22:44:23+05:30"
 }
