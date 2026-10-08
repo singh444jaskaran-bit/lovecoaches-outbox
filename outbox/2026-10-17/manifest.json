@@ -1,0 +1,42 @@
+{
+ "date": "2026-10-17",
+ "version": 1,
+ "slug": "lcm-20261017",
+ "caption": "Always on your phones lately?\n\nWe tell our couples: it was never about how much you use it. It's about who you reach for first.\n\nFollow @lovecoaches_shrutijas for more.",
+ "slides": [
+  {
+   "file": "01.jpg",
+   "sha256": "e8bea6d7e20671509badbc4eaaa5799eef9adc7b2af40bdc1d8af4d7cc88deef"
+  },
+  {
+   "file": "02.jpg",
+   "sha256": "b31ceed3a658f908d1b8b2e5f67df47c71f657ac2020b94e98ab9eb4c9c0dc59"
+  },
+  {
+   "file": "03.jpg",
+   "sha256": "3df8f8acbfc30979c589bd051226774ed6cc510b246d9971bf17757a5ea4e4ee"
+  },
+  {
+   "file": "04.jpg",
+   "sha256": "9a53489669e6b24b7e8791d3979bada5d2b3568b885d1caca611eb6466e147c6"
+  },
+  {
+   "file": "05.jpg",
+   "sha256": "6f68c0251cd691e83152cb642c53653bcbc318e65a6e9962d7f798b7a418f272"
+  },
+  {
+   "file": "06.jpg",
+   "sha256": "52036c2658a73a2c2b8c39aeb79c28acc41c0f519724ae2b46aa3851f4640733"
+  },
+  {
+   "file": "07.jpg",
+   "sha256": "8b3354679462decc92fedb59a0359dfed5508a7544294b796dc7fa545059f6ba"
+  },
+  {
+   "file": "08.jpg",
+   "sha256": "b0a5e706e9d987440bcda3ecbefae07cf256fc4935b8f36e1514ed2f986ee847"
+  }
+ ],
+ "item": "c036",
+ "built_at": "2026-10-09T01:38:28+05:30"
+}
