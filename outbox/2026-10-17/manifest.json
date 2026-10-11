@@ -1,42 +1,30 @@
 {
  "date": "2026-10-17",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261017",
- "caption": "Always on your phones lately?\n\nWe tell our couples: it was never about how much you use it. It's about who you reach for first.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Do you love them their way?\n\nLoving well is a skill, and we think it is worth learning. Ask your person tonight what made them feel loved this week.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "e8bea6d7e20671509badbc4eaaa5799eef9adc7b2af40bdc1d8af4d7cc88deef"
+   "sha256": "54aa8ad99be9b90a273b6082e42c6486c526f18c922f2238456ae4536d057b3d"
   },
   {
    "file": "02.jpg",
-   "sha256": "b31ceed3a658f908d1b8b2e5f67df47c71f657ac2020b94e98ab9eb4c9c0dc59"
+   "sha256": "cb86bdc9103db97dde45275af0d1723421991457538bcef4001a059a6344b348"
   },
   {
    "file": "03.jpg",
-   "sha256": "3df8f8acbfc30979c589bd051226774ed6cc510b246d9971bf17757a5ea4e4ee"
+   "sha256": "147b0eba74e45590e56c9d09937e2e28b30aaf0803716e710a5e34a9d68f31d6"
   },
   {
    "file": "04.jpg",
-   "sha256": "9a53489669e6b24b7e8791d3979bada5d2b3568b885d1caca611eb6466e147c6"
+   "sha256": "7d7947ef56b81570272967d9abc813259e8d3772180605bb9c84c9ccba5eee05"
   },
   {
    "file": "05.jpg",
-   "sha256": "6f68c0251cd691e83152cb642c53653bcbc318e65a6e9962d7f798b7a418f272"
-  },
-  {
-   "file": "06.jpg",
-   "sha256": "52036c2658a73a2c2b8c39aeb79c28acc41c0f519724ae2b46aa3851f4640733"
-  },
-  {
-   "file": "07.jpg",
-   "sha256": "8b3354679462decc92fedb59a0359dfed5508a7544294b796dc7fa545059f6ba"
-  },
-  {
-   "file": "08.jpg",
-   "sha256": "b0a5e706e9d987440bcda3ecbefae07cf256fc4935b8f36e1514ed2f986ee847"
+   "sha256": "1efcb20ebbab77825995e941ddf2037878a9940c0c2727c1bd6b998bd3245746"
   }
  ],
- "item": "c036",
- "built_at": "2026-10-09T01:38:28+05:30"
+ "item": "c046",
+ "built_at": "2026-10-11T17:39:46+05:30"
 }

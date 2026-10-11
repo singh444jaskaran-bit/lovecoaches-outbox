@@ -1,42 +1,42 @@
 {
  "date": "2026-10-18",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261018",
- "caption": "Stuck in attack and defend?\n\nWe tell our couples: the goal was never to stop disappointing each other. It's to stop turning each other into the enemy.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Which one does your partner do?\n\nWe tell our couples to look beyond gifts and sweet words. Pick the one your person does best and send this to them.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "11b31e7e1deaa0849aeebf2125bc8a186172771534cd6ff730d907337525e2b3"
+   "sha256": "0a32adbb128c93c10cc61cece6c48d204bb4e59e4e92796a02aaba4cac15fca8"
   },
   {
    "file": "02.jpg",
-   "sha256": "dee1aa54b51b616cbb99c96b22ab652e4fee680df0ffbc66a88933b97b447753"
+   "sha256": "41184b686fadb0dbd84c2b120f9d7b44d8db96290f97cff144d5e39eb446b40e"
   },
   {
    "file": "03.jpg",
-   "sha256": "3b81d898a9aae7c2b71b89a284cce6371b0506e13d97d0f616cfc146edd6677d"
+   "sha256": "43634e72ed69757a601c68fe8c199d2026488e3e255149bf8a39e4304c52325d"
   },
   {
    "file": "04.jpg",
-   "sha256": "e1330fe18056027807f0b4bff27323136ef557f43c49f48d2b7e6b93bfeb7dc4"
+   "sha256": "6602aeb3304455ac2e5feddae78202993a87f369129a3754004cf9905897ee9f"
   },
   {
    "file": "05.jpg",
-   "sha256": "a7cd86bc4dc19bcbdff448cf8fd1d4c1d53adabaf99a5ef14fa4b1bf38028400"
+   "sha256": "9d4e5e2cec764a9a477c450b180e11c3db9ec1c698eb0bb0c661225765b66eb3"
   },
   {
    "file": "06.jpg",
-   "sha256": "17b350bd52d5b183160f4e97ecd96677eff62682c129c85d14198b7916eab1c7"
+   "sha256": "33ffdb538216b6c3798bf930782670f4bcd41b95941b2888b1ef0c0f75650e83"
   },
   {
    "file": "07.jpg",
-   "sha256": "44f658c5e8c45e8e948e632209d800a2ba490d482f48899c71ba3c33f55652d6"
+   "sha256": "71f6aa931184d9db66368eab65dae6b787b6d91c3c07244e50905b8c7ad117c8"
   },
   {
    "file": "08.jpg",
-   "sha256": "1f1808ba9f08b3c38f5845cdb8f5f1e1429630b3af4e34b415dcc3b38d50a357"
+   "sha256": "83a1e95e28ad20e69784d8c041b20b54ee73b5d37fb3b4fbf53c2ea8e0166504"
   }
  ],
- "item": "c038",
- "built_at": "2026-10-10T01:25:51+05:30"
+ "item": "c045",
+ "built_at": "2026-10-11T17:44:49+05:30"
 }

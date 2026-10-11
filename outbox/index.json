@@ -56,18 +56,12 @@
    "withdrawn_at": "2026-10-11T11:58:52+05:30"
   },
   "2026-10-17": {
-   "version": 1,
-   "slug": "lcm-20261017",
-   "withdrawn": true,
-   "withdrawn_reason": "Jas 11 Oct: not every post about marriage, no wedding-photo decks. Rebuilt under the theme and wedding-look rules.",
-   "withdrawn_at": "2026-10-11T11:58:52+05:30"
+   "version": 2,
+   "slug": "lcm-20261017"
   },
   "2026-10-18": {
-   "version": 1,
-   "slug": "lcm-20261018",
-   "withdrawn": true,
-   "withdrawn_reason": "11 Oct visual review: Jas eyes squeezed shut and messy hair, Shruti's hair across her face (his 29 Sep photo rule). Rebuild when a clean photo exists.",
-   "withdrawn_at": "2026-10-11T13:37:02+05:30"
+   "version": 2,
+   "slug": "lcm-20261018"
   }
  }
 }
