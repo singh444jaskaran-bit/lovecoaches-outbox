@@ -1,42 +1,42 @@
 {
  "date": "2026-10-13",
- "version": 2,
+ "version": 3,
  "slug": "lcm-20261013",
- "caption": "Which one will you try tonight?\n\nSmall and daily beats big and rare.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Feeling far from each other lately?\n\nWe tell our couples: small and daily beats big and rare.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "8ef86017a715927f120cf5e50b6c10e0829d6d19874490619a600bbd3b4dab96"
+   "sha256": "8c29025d1c05807a7147ccdc357f4c7f1cff9316bb4c82e19d60a528981d56cc"
   },
   {
    "file": "02.jpg",
-   "sha256": "534e03d7c61d90e890053a5482d94a57b6a875f257efb455c85b7576cfea3afc"
+   "sha256": "c7e6be37beb99a28a5e411a121ba67b107f0dc166a435615a71013e4bc6a678c"
   },
   {
    "file": "03.jpg",
-   "sha256": "8c24042f0c7cfbe30754eca6a3b724dd99d53c73b57bcc2e75f800a3c68da316"
+   "sha256": "69a3767322135af7c2a4de4b115a92252ec9630595cca0f9b3cfd3acbec87725"
   },
   {
    "file": "04.jpg",
-   "sha256": "dec0f44df4baa07ecfe0925c89d9b09649e8d6b51dcbe450afab247dcc0bb6a8"
+   "sha256": "ac0d80a897c78e81bdc543c04c830ae957f17840c51cb9b52f128f9e5c82fa2d"
   },
   {
    "file": "05.jpg",
-   "sha256": "4840c9002f569902b54387af75c2258fef681922bc815a0b6e314125a3533cbc"
+   "sha256": "0409eabda84ad87645328c37289bf1dfacab4b7f9affb50dd5023de16901b85f"
   },
   {
    "file": "06.jpg",
-   "sha256": "283176a23559b8dabf6148442bd4baa016b7a14a288915b2fe60a40850019843"
+   "sha256": "ff426429adc1e5e70aa6f2d6a85a06f7d70283d053517def472909c71c6d6343"
   },
   {
    "file": "07.jpg",
-   "sha256": "830e67fa7071ad92e73d24419713718987b07d0c4ddc61963dee403a6982e573"
+   "sha256": "e58297528866a76b4d271f0a9197227e2af96dcb0df2d3ab2d9b25a53021a002"
   },
   {
    "file": "08.jpg",
-   "sha256": "9f22c18ccd0d8e589391dbd0d68ba042d0c4e18efcf42f2bbb703aa7a0bc8ac4"
+   "sha256": "b4af929e70b1c09d3f54f732119ab2c254bc5f2803583e125aa379ca02cd34f5"
   }
  ],
  "item": "c032",
- "built_at": "2026-10-07T22:44:23+05:30"
+ "built_at": "2026-10-11T13:07:31+05:30"
 }

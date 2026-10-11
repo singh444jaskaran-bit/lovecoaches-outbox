@@ -33,24 +33,33 @@
    "slug": "lcm-20261011"
   },
   "2026-10-12": {
-   "version": 2,
+   "version": 3,
    "slug": "lcm-20261012"
   },
   "2026-10-13": {
-   "version": 2,
+   "version": 3,
    "slug": "lcm-20261013"
   },
   "2026-10-14": {
    "version": 2,
-   "slug": "lcm-20261014"
+   "slug": "lcm-20261014",
+   "withdrawn": true,
+   "withdrawn_reason": "Jas 11 Oct: not every post about marriage, no wedding-photo decks. Rebuilt under the theme and wedding-look rules.",
+   "withdrawn_at": "2026-10-11T11:58:52+05:30"
   },
   "2026-10-16": {
    "version": 1,
-   "slug": "lcm-20261016"
+   "slug": "lcm-20261016",
+   "withdrawn": true,
+   "withdrawn_reason": "Jas 11 Oct: not every post about marriage, no wedding-photo decks. Rebuilt under the theme and wedding-look rules.",
+   "withdrawn_at": "2026-10-11T11:58:52+05:30"
   },
   "2026-10-17": {
    "version": 1,
-   "slug": "lcm-20261017"
+   "slug": "lcm-20261017",
+   "withdrawn": true,
+   "withdrawn_reason": "Jas 11 Oct: not every post about marriage, no wedding-photo decks. Rebuilt under the theme and wedding-look rules.",
+   "withdrawn_at": "2026-10-11T11:58:52+05:30"
   },
   "2026-10-18": {
    "version": 1,

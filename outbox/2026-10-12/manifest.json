@@ -1,42 +1,42 @@
 {
  "date": "2026-10-12",
- "version": 2,
+ "version": 3,
  "slug": "lcm-20261012",
- "caption": "No one taught you this either?\n\nNobody trains us for this part. We learn it together.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Do your fights go in circles?\n\nWe say these to our couples. Which one stung the most?\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "70dde86bb892f49728e92c4cb62df7fac73d959595800d16b3352d7446c4aed4"
+   "sha256": "362a0443cc9ba1343f62959983ad539ba8c36f2be395bcff133162e8e446ee2a"
   },
   {
    "file": "02.jpg",
-   "sha256": "0cf005d050005eccf7eaad800508e645ec0e6e8af7ba43efbdda192ecdc2ab6b"
+   "sha256": "6f54b988338ef87b0e94466de3c68520bf45f924385a7617e9074dc7d2631a8e"
   },
   {
    "file": "03.jpg",
-   "sha256": "dbbd683dc0f6af754e7f546c164747fb30f8429273f03dbf9e102bc873004ce7"
+   "sha256": "aef8f0cf776037972ef5141ca4f32fec1dd37af792fcd0fac5d497154413393d"
   },
   {
    "file": "04.jpg",
-   "sha256": "afe19a30d17540f5e8668d0ed837af7fb0206023519487f37408e3e25862fe7a"
+   "sha256": "1fdacd6fc81dcef4dc8f2f0225b5d31597c8ccd4d9c6b0f9b2959dd0a16bb99f"
   },
   {
    "file": "05.jpg",
-   "sha256": "b2d80c60c7417d9bc09d3110d3be6c3c6a46b4f151e69fe7b7e27ea5f43e6353"
+   "sha256": "b43f25e4de64b6f0dd487983ee1eda088c9e61596283f3b71745bf9f2286942f"
   },
   {
    "file": "06.jpg",
-   "sha256": "f3dea2aa53774f6a31df32c962155dfcd7ecd072250a970046dcd20bf92e7408"
+   "sha256": "b18310c240678935acc9e245f200174ad621061ef24e06a568747ddfec82c372"
   },
   {
    "file": "07.jpg",
-   "sha256": "fb941b0fab2e181642996dc9fea4770d3f58dd6fbbb0fa1831129f0e9f2945f1"
+   "sha256": "11aea47aac5b4ade4548ef07d9506229ca4d7e4a6fe970f622978468c7e3c88a"
   },
   {
    "file": "08.jpg",
-   "sha256": "aa3bd1cfc150e5962b4bbb5a82fa69e4d19ab044ede95a9c61e25fc6b5c5f557"
+   "sha256": "0d3cbfea9ed95735f0052be2cfd61f76bd8eb188aa6ac3b061accce5ef3e0215"
   }
  ],
- "item": "c024",
- "built_at": "2026-10-07T01:42:25+05:30"
+ "item": "c043",
+ "built_at": "2026-10-11T13:08:20+05:30"
 }
