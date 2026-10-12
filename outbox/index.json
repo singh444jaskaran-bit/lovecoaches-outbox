@@ -52,7 +52,10 @@
   },
   "2026-10-15": {
    "version": 2,
-   "slug": "lcm-20261015"
+   "slug": "lcm-20261015",
+   "withdrawn": true,
+   "withdrawn_reason": "Jas 12 Oct: deleted the live 12 Oct post and asked for something else right now - this deck (c044) was posted on 12 Oct instead",
+   "withdrawn_at": "2026-10-12T11:51:20+05:30"
   },
   "2026-10-16": {
    "version": 1,
