@@ -1,42 +1,30 @@
 {
  "date": "2026-10-13",
- "version": 3,
+ "version": 4,
  "slug": "lcm-20261013",
- "caption": "Feeling far from each other lately?\n\nWe tell our couples: small and daily beats big and rare.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Is she upset and you keep explaining?\n\nWe think the fastest way out of a fight is to listen first. Your side of the story can wait a little.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "8c29025d1c05807a7147ccdc357f4c7f1cff9316bb4c82e19d60a528981d56cc"
+   "sha256": "54f9b0a44edbfddf039642218eba941613b82d6e92674e83f1aaf9d288e4f219"
   },
   {
    "file": "02.jpg",
-   "sha256": "c7e6be37beb99a28a5e411a121ba67b107f0dc166a435615a71013e4bc6a678c"
+   "sha256": "39d1e7a5fc1465694337498abc55ccef72be8b3b5bff0e5a2a3a744aabdfbe68"
   },
   {
    "file": "03.jpg",
-   "sha256": "69a3767322135af7c2a4de4b115a92252ec9630595cca0f9b3cfd3acbec87725"
+   "sha256": "9e627e544dcb5c7ab25410b81bcbef5eca60e4920d762f2d5861d26c94bdfff9"
   },
   {
    "file": "04.jpg",
-   "sha256": "ac0d80a897c78e81bdc543c04c830ae957f17840c51cb9b52f128f9e5c82fa2d"
+   "sha256": "0d687662d07061652528e2fc3acb5862f74bfcef7811e0608dd2c6b065a02995"
   },
   {
    "file": "05.jpg",
-   "sha256": "0409eabda84ad87645328c37289bf1dfacab4b7f9affb50dd5023de16901b85f"
-  },
-  {
-   "file": "06.jpg",
-   "sha256": "ff426429adc1e5e70aa6f2d6a85a06f7d70283d053517def472909c71c6d6343"
-  },
-  {
-   "file": "07.jpg",
-   "sha256": "e58297528866a76b4d271f0a9197227e2af96dcb0df2d3ab2d9b25a53021a002"
-  },
-  {
-   "file": "08.jpg",
-   "sha256": "b4af929e70b1c09d3f54f732119ab2c254bc5f2803583e125aa379ca02cd34f5"
+   "sha256": "e8331c55b377963fc563329900145b4d2fc0326cc56450ede2339535db42804b"
   }
  ],
- "item": "c032",
- "built_at": "2026-10-11T13:07:31+05:30"
+ "item": "c049",
+ "built_at": "2026-10-12T22:33:55+05:30"
 }
