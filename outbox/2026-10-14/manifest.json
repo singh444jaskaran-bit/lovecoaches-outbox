@@ -1,34 +1,26 @@
 {
  "date": "2026-10-14",
- "version": 4,
+ "version": 5,
  "slug": "lcm-20261014",
- "caption": "Did a small moment ruin your day?\n\nEvery couple gets these moments. What we do next decides the rest.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "When he gets defensive mid-talk?\n\nWe tell our couples: pointing out what he did isn’t attacking him. Hear him out, one turn at a time.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "c023fc0c20dc4ce92be6fbc14b1f4d94bdc1051acc4a28df426d5059f804d285"
+   "sha256": "2cf7d5e18394ff33ede84e46b78f4a7ab206d7de42e970119e3fe3ba7b477834"
   },
   {
    "file": "02.jpg",
-   "sha256": "ba1248830fd6cdb13f4d1ba31701eb01db735a932c2312b7ed59abba2493502d"
+   "sha256": "46b784b594e99e2fabdce35236c810ef9a00c490b84d32a67dccf7081a88b744"
   },
   {
    "file": "03.jpg",
-   "sha256": "40294e30ca5a49b0bca3eab6718fd2c8a6c4d2be264cc0241d9020858f7d1d11"
+   "sha256": "cf7596764e5b166b06ec6991669167373ac68c48f7d6de973dd433be5ce85814"
   },
   {
    "file": "04.jpg",
-   "sha256": "41108b5165d46444ca10180820e53ac5723f2c4ba6fbec79a94a401913d59fb8"
-  },
-  {
-   "file": "05.jpg",
-   "sha256": "d7d67a40bc4ff1a6490d06dd700e9cdd6667dedb55b78370613125d2d55fb4b3"
-  },
-  {
-   "file": "06.jpg",
-   "sha256": "3be6fb4b480723b57eb4f40b042572103ccee44315c06112538dfa806982861d"
+   "sha256": "930568b145e77768a7c67774b26f3da8b06f2887612ef3b132b0618d05163de0"
   }
  ],
- "item": "c048",
- "built_at": "2026-10-11T17:11:44+05:30"
+ "item": "c037",
+ "built_at": "2026-10-12T22:49:15+05:30"
 }
