@@ -57,11 +57,8 @@
    "slug": "lcm-20261017"
   },
   "2026-10-18": {
-   "version": 2,
-   "slug": "lcm-20261018",
-   "withdrawn": true,
-   "withdrawn_reason": "Jas 12 Oct: copy too hard for an Indian reader ('Nobody understands such complete English. We are catering to the Indian market.'). Rebuild in simple English.",
-   "withdrawn_at": "2026-10-12T11:43:38+05:30"
+   "version": 3,
+   "slug": "lcm-20261018"
   }
  }
 }

@@ -1,42 +1,17 @@
 {
  "date": "2026-10-18",
- "version": 2,
+ "version": 3,
  "slug": "lcm-20261018",
- "caption": "Which one does your partner do?\n\nWe tell our couples to look beyond gifts and sweet words. Pick the one your person does best and send this to them.\n\nFollow @lovecoaches_shrutijas for more.",
- "slides": [
-  {
-   "file": "01.jpg",
-   "sha256": "0a32adbb128c93c10cc61cece6c48d204bb4e59e4e92796a02aaba4cac15fca8"
-  },
-  {
-   "file": "02.jpg",
-   "sha256": "41184b686fadb0dbd84c2b120f9d7b44d8db96290f97cff144d5e39eb446b40e"
-  },
-  {
-   "file": "03.jpg",
-   "sha256": "43634e72ed69757a601c68fe8c199d2026488e3e255149bf8a39e4304c52325d"
-  },
-  {
-   "file": "04.jpg",
-   "sha256": "6602aeb3304455ac2e5feddae78202993a87f369129a3754004cf9905897ee9f"
-  },
-  {
-   "file": "05.jpg",
-   "sha256": "9d4e5e2cec764a9a477c450b180e11c3db9ec1c698eb0bb0c661225765b66eb3"
-  },
-  {
-   "file": "06.jpg",
-   "sha256": "33ffdb538216b6c3798bf930782670f4bcd41b95941b2888b1ef0c0f75650e83"
-  },
-  {
-   "file": "07.jpg",
-   "sha256": "71f6aa931184d9db66368eab65dae6b787b6d91c3c07244e50905b8c7ad117c8"
-  },
-  {
-   "file": "08.jpg",
-   "sha256": "83a1e95e28ad20e69784d8c041b20b54ee73b5d37fb3b4fbf53c2ea8e0166504"
-  }
- ],
- "item": "c045",
- "built_at": "2026-10-11T17:44:49+05:30"
+ "kind": "reel",
+ "caption": "What do all happy couples share?\n\nGratitude isn't the result of a good relationship. It's the cause.\n\nFollow @lovecoaches_shrutijas for more.",
+ "video": {
+  "file": "reel.mp4",
+  "sha256": "21f49c329d06072964f568cf14b75375f0fa414df4576612f32c5cfeb657ffba"
+ },
+ "cover": {
+  "file": "cover.jpg",
+  "sha256": "380f0df14d7be8d972f052e09570e2e839f4293978d24f16f40f262074643b8d"
+ },
+ "item": "r001",
+ "built_at": "2026-10-13T16:39:42+05:30"
 }
