@@ -1,26 +1,30 @@
 {
  "date": "2026-10-14",
- "version": 5,
+ "version": 6,
  "slug": "lcm-20261014",
- "caption": "When he gets defensive mid-talk?\n\nWe tell our couples: pointing out what he did isn’t attacking him. Hear him out, one turn at a time.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Who are you really choosing?\n\nYou think you're just choosing a partner, but you're actually choosing so much more.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "2cf7d5e18394ff33ede84e46b78f4a7ab206d7de42e970119e3fe3ba7b477834"
+   "sha256": "1511f164f8d382feaaa5bb3749aa16d9d8137b586111c0da7f4669cb23b71f87"
   },
   {
    "file": "02.jpg",
-   "sha256": "46b784b594e99e2fabdce35236c810ef9a00c490b84d32a67dccf7081a88b744"
+   "sha256": "5df338a893a3cbad269e0d6bd538cf9688f1cdbf5d9c5afd3ba28c37d203c761"
   },
   {
    "file": "03.jpg",
-   "sha256": "cf7596764e5b166b06ec6991669167373ac68c48f7d6de973dd433be5ce85814"
+   "sha256": "c2fb678b5ea412e2684c404546def0e6a4a35a7abe5643ea56b68fdb7ce382d6"
   },
   {
    "file": "04.jpg",
-   "sha256": "930568b145e77768a7c67774b26f3da8b06f2887612ef3b132b0618d05163de0"
+   "sha256": "c994af506b0ed92f1e6c9362bc04cfe6e3ecbb56319775d1d7921294aea4210c"
+  },
+  {
+   "file": "05.jpg",
+   "sha256": "06f8a6b8991344956d54b8fe29f0f99984033319741149fbc6f75a7f0c726cba"
   }
  ],
- "item": "c037",
- "built_at": "2026-10-12T22:49:15+05:30"
+ "item": "c050",
+ "built_at": "2026-10-13T12:58:02+05:30"
 }
