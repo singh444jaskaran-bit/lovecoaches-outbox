@@ -1,30 +1,30 @@
 {
  "date": "2026-10-17",
- "version": 2,
+ "version": 3,
  "slug": "lcm-20261017",
- "caption": "Do you love them their way?\n\nLoving well is a skill, and we think it is worth learning. Ask your person tonight what made them feel loved this week.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Are they sure about you?\n\nDon't ever settle for people who are unsure about you. Life is way too short. Find the people who feel grateful to know you.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "54aa8ad99be9b90a273b6082e42c6486c526f18c922f2238456ae4536d057b3d"
+   "sha256": "c8a08fee7faa1fb5d1f9d9f33624ed065ac116548149808c98da0e81c105dd67"
   },
   {
    "file": "02.jpg",
-   "sha256": "cb86bdc9103db97dde45275af0d1723421991457538bcef4001a059a6344b348"
+   "sha256": "20dfa4c852b0f7ef0f2a9ea15121e75ea962a56fd6f5fab6af8e5d466adff356"
   },
   {
    "file": "03.jpg",
-   "sha256": "147b0eba74e45590e56c9d09937e2e28b30aaf0803716e710a5e34a9d68f31d6"
+   "sha256": "973739cb32fccb88f20965b64367cff65b643a0a766e888a73b689f19ea2c9e0"
   },
   {
    "file": "04.jpg",
-   "sha256": "7d7947ef56b81570272967d9abc813259e8d3772180605bb9c84c9ccba5eee05"
+   "sha256": "8da34e9410b9738ba485323c5d53a8fe2d9b7d2dfde45d7087c63881ef933449"
   },
   {
    "file": "05.jpg",
-   "sha256": "1efcb20ebbab77825995e941ddf2037878a9940c0c2727c1bd6b998bd3245746"
+   "sha256": "ed043529d5fa071d269b9e8632e1842e0c64d9b0626868e3cf5ecd4eb59bc72c"
   }
  ],
- "item": "c046",
- "built_at": "2026-10-11T17:39:46+05:30"
+ "item": "c052",
+ "built_at": "2026-10-13T13:00:04+05:30"
 }

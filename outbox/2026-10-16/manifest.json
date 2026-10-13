@@ -1,42 +1,42 @@
 {
  "date": "2026-10-16",
- "version": 1,
+ "version": 2,
  "slug": "lcm-20261016",
- "caption": "Living under one roof with in-laws?\n\nWe tell couples: it's never you versus your parents. It's protecting your marriage while you share a home, one calm conversation at a time.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Still looking for the one?\n\nEight uncomfortable truths about finding (and choosing) the right partner. And remember, a person's character is more important than their charm.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "5c7350c02ae825f819aa18da91e0065508dc7c9d7ea44f375ddd156f7cb9f6b7"
+   "sha256": "c0f536b7fc3ec55f6dca0802c2c1a4e5d1bc16611ea24ecb636b0cd0cff7a44e"
   },
   {
    "file": "02.jpg",
-   "sha256": "82d6b08722ab300204391d6e8a515cc50aacd326f0b93bde9350dfec7873e435"
+   "sha256": "667109972869ae0354dab82d3dc3a33a2ec64b2ed615a3aef1e98164cc2c744d"
   },
   {
    "file": "03.jpg",
-   "sha256": "2356e51178ac55174e2726ba2b3d528a1b5ccf7ed5dd3030157a541d85fcbaf5"
+   "sha256": "a88abd4335a7946051e4ed0c4e66d77f6f9cb01f04828a4b7d6239b70cb94395"
   },
   {
    "file": "04.jpg",
-   "sha256": "a9748c6b24871d1f80d0e5ba4bba886bb3fdb761b48e6bb7fa6fc8e6437d7530"
+   "sha256": "65aabdd27a5f8051a969ccfcf2155d6b03af268502a882ab80e129c030775478"
   },
   {
    "file": "05.jpg",
-   "sha256": "28981ae3ce54316e4aa92893c6365874100bffc2b768ab72b38295edf4099dce"
+   "sha256": "a39094512b8e9942e731a8878fe187936eff9168f11abdb48a9e7f694f4964d2"
   },
   {
    "file": "06.jpg",
-   "sha256": "ba82436d53341c349bb2a84ccfc35cdb4c2c04086696c512f6906664891b4da0"
+   "sha256": "e84be904131d6183cad09419e2e7a4fdc89de99e46dc23dee089e58b4201f967"
   },
   {
    "file": "07.jpg",
-   "sha256": "d91a0ef47ad8230bda522a2687cb316cc95351a6c9129deb1dadbcf16a26ba41"
+   "sha256": "973fb87b671a390339d2858dad7a53f89fb7e38bab913c8822e3c3c156ef1345"
   },
   {
    "file": "08.jpg",
-   "sha256": "92750317ad142547c6b46e093161123ff051b304fd5871f01eb3a0da5d59c9f2"
+   "sha256": "0698bd60e4b1cd56746f050ddcf40b4b91faea19675d93de56be982c49bcf21a"
   }
  ],
- "item": "c034",
- "built_at": "2026-10-08T01:55:18+05:30"
+ "item": "c053",
+ "built_at": "2026-10-13T13:00:03+05:30"
 }

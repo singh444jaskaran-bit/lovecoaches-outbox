@@ -1,34 +1,34 @@
 {
  "date": "2026-10-15",
- "version": 2,
+ "version": 3,
  "slug": "lcm-20261015",
- "caption": "Still building your life together?\n\nSaving and planning together still counts as love. We are rooting for the two of you on the way.\n\nFollow @lovecoaches_shrutijas for more.",
+ "caption": "Who makes you laugh more?\n\nYou've made my life so, so wonderful ✨\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "43e8d4d3b50cd7ac21f19d12680ccf00e9080a26b56cd6c3f9c1f95c34abd658"
+   "sha256": "455f50ca92f6a91e35498ca6c774dfc27dd57c6a97b3ef3b61332dc0401149c9"
   },
   {
    "file": "02.jpg",
-   "sha256": "afa26080890b0621eb65d4b9281ac0ca36248cb1d40a9851058b3744aea77eec"
+   "sha256": "4ac922ceb8033e4e0939a7fc1d8522197c37481bdd860945c6b6835b6755bb40"
   },
   {
    "file": "03.jpg",
-   "sha256": "b2c1043d7d9cb4d54a5a80c07554f51336ed8f6d698a784a0cce68660ea2037d"
+   "sha256": "507631c6a9a7aa697eebf41fa5d4d9f4a53408c9b827a80e2e5183a590b5b490"
   },
   {
    "file": "04.jpg",
-   "sha256": "a29ac8090bdccd37f7f6c0d1f1c9adf10713181fedf104fe84877f7d10f893a0"
+   "sha256": "29039fb60d2d89e6e94bde25147a66be40d4c16c5d7cd43d8ce411882768c9ce"
   },
   {
    "file": "05.jpg",
-   "sha256": "c2ddfc3550c834df3bc9606f59a275e765925457b07fb40bb76b89ab8aa01440"
+   "sha256": "b36e7d69f4011cd47376e82811904048c80cd79c4011d9c63e75cbe2e1aef097"
   },
   {
    "file": "06.jpg",
-   "sha256": "6208b467d8c7f3d3323b83811465094787d8df20bbbb659a4397efda58b4c5aa"
+   "sha256": "65bd1d78e7fb11a872bf975ec3cd1c95ffdde175b64908735b86f11663c4b3d0"
   }
  ],
- "item": "c044",
- "built_at": "2026-10-11T17:11:45+05:30"
+ "item": "c051",
+ "built_at": "2026-10-13T13:00:42+05:30"
 }
