@@ -1,12 +1,12 @@
 {
  "date": "2026-10-14",
- "version": 6,
+ "version": 7,
  "slug": "lcm-20261014",
  "caption": "Who are you really choosing?\n\nYou think you're just choosing a partner, but you're actually choosing so much more.\n\nFollow @lovecoaches_shrutijas for more.",
  "slides": [
   {
    "file": "01.jpg",
-   "sha256": "1511f164f8d382feaaa5bb3749aa16d9d8137b586111c0da7f4669cb23b71f87"
+   "sha256": "8b024343f17ff3174da4e1501f1233cd45e51fc83397da569a0d3d420b2a5b94"
   },
   {
    "file": "02.jpg",
@@ -22,9 +22,9 @@
   },
   {
    "file": "05.jpg",
-   "sha256": "06f8a6b8991344956d54b8fe29f0f99984033319741149fbc6f75a7f0c726cba"
+   "sha256": "7d9c01f315e6a86b967704980fce51aeb5126088f42bbb5af8c3cd0d756723e3"
   }
  ],
  "item": "c050",
- "built_at": "2026-10-13T12:58:02+05:30"
+ "built_at": "2026-10-13T12:58:57+05:30"
 }
