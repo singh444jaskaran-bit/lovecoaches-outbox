@@ -1,0 +1,42 @@
+{
+ "date": "2026-10-19",
+ "version": 1,
+ "slug": "lcm-20261019",
+ "caption": "What little thing do you love most?\n\nThe little everyday things are what we love most. Which one is your favourite?\n\nFollow @lovecoaches_shrutijas for more.",
+ "slides": [
+  {
+   "file": "01.jpg",
+   "sha256": "035e20ec22a052f5504f0cdf6db5c5ec1503c4b86d039974431be85e7e2433fe"
+  },
+  {
+   "file": "02.jpg",
+   "sha256": "9ff6698e8e651a64064b87327da88f5ba773237f6809d3d6318a2a9d727a6fed"
+  },
+  {
+   "file": "03.jpg",
+   "sha256": "e3c263838d6091e7017eddcb4c9c95f524bcac0aedb20b18fa77b9f7e7ee4de4"
+  },
+  {
+   "file": "04.jpg",
+   "sha256": "4df2e2da63b7abd604fa4b837d959bfe084a1c7a64fa62a35ea991167bd556b6"
+  },
+  {
+   "file": "05.jpg",
+   "sha256": "0e85298d31ecb08be57912edeebf1ee84921bbb6a42766cf63ce04bbbccc14ba"
+  },
+  {
+   "file": "06.jpg",
+   "sha256": "2968959160e4c73a19e98cde89213d41f5a4f95d32dda5ca7119afd9d176af38"
+  },
+  {
+   "file": "07.jpg",
+   "sha256": "a37eb2889771ebb1330391d03b776fde17720a4d7dee5bd47a373700d177a486"
+  },
+  {
+   "file": "08.jpg",
+   "sha256": "7f745f70c9bfc48ee4d2f33baa7d52909ee36cada7c3df0ea637dcf791c5b2d8"
+  }
+ ],
+ "item": "c057",
+ "built_at": "2026-10-16T01:23:19+05:30"
+}
