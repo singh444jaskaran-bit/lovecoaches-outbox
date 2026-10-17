@@ -1,0 +1,34 @@
+{
+ "date": "2026-10-21",
+ "version": 1,
+ "slug": "lcm-20261021",
+ "caption": "Want to grow old together?\n\nLet's become \"one of those old couples\" 🤝\n\nFollow @lovecoaches_shrutijas for more.",
+ "slides": [
+  {
+   "file": "01.jpg",
+   "sha256": "891532873048677a0ce7991d01f53682f3fb8ed9259e0dd04f5ee65ab7ce949a"
+  },
+  {
+   "file": "02.jpg",
+   "sha256": "30eead1426366481881674449d37ebe2731ff8fa86c5420f24e126f4f738374c"
+  },
+  {
+   "file": "03.jpg",
+   "sha256": "c7d263acc6dc84ca7eca88da4b27caa1a4abc62f3d9c70d32cf76ef52f3f8981"
+  },
+  {
+   "file": "04.jpg",
+   "sha256": "1c550084adb1e3637f8d223054836b10fadd686c2d96a165b19f501f76f20ef2"
+  },
+  {
+   "file": "05.jpg",
+   "sha256": "44570fa4aef5963065b5a752adf3cf368b5bed9c2ba156a692a8500b4ad92230"
+  },
+  {
+   "file": "06.jpg",
+   "sha256": "47c766c0f7f0e17fb9ec88ab67e0153fe612136a6ee047ef62913e9712f1b47a"
+  }
+ ],
+ "item": "c061",
+ "built_at": "2026-10-18T01:21:50+05:30"
+}
