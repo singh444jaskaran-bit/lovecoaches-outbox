@@ -1,0 +1,34 @@
+{
+ "date": "2026-10-22",
+ "version": 1,
+ "slug": "lcm-20261022",
+ "caption": "Still replaying last night's fight?\n\nThese lines sound strong in a reel. Inside a fight, they only make the hurt bigger. Which one do we all fall for most?\n\nFollow @lovecoaches_shrutijas for more.",
+ "slides": [
+  {
+   "file": "01.jpg",
+   "sha256": "9d240b52e547578018f4c5e62838bcb648333a2e9163894ef93b6daada86ed78"
+  },
+  {
+   "file": "02.jpg",
+   "sha256": "3e81ae35d904d0f6ea76e534f11b74978765564d0093859de0ddec9660449b3f"
+  },
+  {
+   "file": "03.jpg",
+   "sha256": "600ea444c00388086c583ba689cb6fef8dcbb5f0baac9d369700a0ce3e229373"
+  },
+  {
+   "file": "04.jpg",
+   "sha256": "1e1badc7f0004b15db7ca492dcb69b0c04fc9baf51868de28747bcf69f8f4b3e"
+  },
+  {
+   "file": "05.jpg",
+   "sha256": "0655f8a17f839cee1cc7e5c216ffb18cec7684e945c574dbd72bdc0c2e64527f"
+  },
+  {
+   "file": "06.jpg",
+   "sha256": "bfdf61f55664536af46ea054300da208c7428c9cdfb6b257ca1d839fd13afe56"
+  }
+ ],
+ "item": "c066",
+ "built_at": "2026-10-19T01:22:04+05:30"
+}
