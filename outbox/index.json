@@ -66,15 +66,24 @@
   },
   "2026-10-20": {
    "version": 1,
-   "slug": "lcm-20261020"
+   "slug": "lcm-20261020",
+   "withdrawn": true,
+   "withdrawn_reason": "Jas 19 Oct: carousels not working on Love Coaches, content not teaching anything - REELS ONLY from now",
+   "withdrawn_at": "2026-10-19T11:53:14+05:30"
   },
   "2026-10-21": {
    "version": 1,
-   "slug": "lcm-20261021"
+   "slug": "lcm-20261021",
+   "withdrawn": true,
+   "withdrawn_reason": "Jas 19 Oct: carousels not working on Love Coaches, content not teaching anything - REELS ONLY from now",
+   "withdrawn_at": "2026-10-19T11:53:14+05:30"
   },
   "2026-10-22": {
    "version": 1,
-   "slug": "lcm-20261022"
+   "slug": "lcm-20261022",
+   "withdrawn": true,
+   "withdrawn_reason": "Jas 19 Oct: carousels not working on Love Coaches, content not teaching anything - REELS ONLY from now",
+   "withdrawn_at": "2026-10-19T11:53:15+05:30"
   }
  }
 }
